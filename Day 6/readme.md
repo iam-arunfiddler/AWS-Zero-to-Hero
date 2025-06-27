@@ -71,7 +71,7 @@ Steps:
 ---
 
 
-💡 Real-World Tips & Best Practices:
+## 💡 Real-World Tips & Best Practices:
 
 🔐 Avoid public buckets unless absolutely required
 
@@ -84,14 +84,13 @@ Steps:
 🪪 Enable default encryption (SSE-S3 or SSE-KMS)
 
 🧪 Test access with anonymous browser sessions 
-
-🔗 Resources
+---
+## 🔗 Resources
 📄 Amazon S3 Documentation : https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
-📝 GitHub Gist - Bucket Policy Used : 
+📝 GitHub Gist - Bucket Policy Used :  https://github.com/iam-arunfiddler/AWS-Zero-to-Hero/blob/main/Day%206/Sample%20Bucket%20Policies/AllPublicAccess.json
 
-
-
+---
 
  🎥 [YouTube - Tech by Arun Fiddler](https://www.youtube.com/@TechbyArunFiddler)
  💼 [LinkedIn - Arun Fiddler](https://www.linkedin.com/in/arunfiddler)
@@ -99,4 +98,4 @@ Steps:
 
 
 Happy Learning! 🙌
-#AWS #S3 #TamilTutorial #CloudComputing #ArunFiddler
+#AWS #S3 #TamilTutorial #CloudComputing #ArunFiddler #TechbyArunFiddler #DevOps #Tamil
