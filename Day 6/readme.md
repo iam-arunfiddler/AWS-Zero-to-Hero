@@ -2,9 +2,9 @@
 
 Welcome to **Day 6** of the **AWS Zero to Hero - Tamil** series by **Arun Fiddler**!  
 In this session, we explored **Amazon S3 (Simple Storage Service)** — a foundational AWS service used for object storage — and discussed everything you need to know to get hands-on and production-ready with S3.
-
-🎥 Complete Playlist on Youtube : https://www.youtube.com/watch?v=prkYvd94EGM&list=PLpGbJOX1pnPzEK8BsXoLdgSdk0qEq9D-x
 ---
+🎥 Complete Playlist on Youtube : https://www.youtube.com/watch?v=prkYvd94EGM&list=PLpGbJOX1pnPzEK8BsXoLdgSdk0qEq9D-x
+
 
 ## 🎯 What You Will Learn
 
