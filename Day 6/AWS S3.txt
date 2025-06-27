@@ -1,0 +1,25 @@
+AWS S3
+
+SSS - Simple Storage Service
+
+Storage. 
+
+99.99999999999-  11 9's = Durability
+
+S3: 
+
+Scalability - not more than 5TB
+Durability - `11 9's
+Security - Encryption, Public Access - SSL 
+Performance  - 99% Availability
+
+
+Static
+Dynamic 
+
+3 + 1 ways :
+1. Through IAM Policy Generator 
+2.  S3 Bucket policy generator
+3. Policy generator
+4. Manual Code
+
