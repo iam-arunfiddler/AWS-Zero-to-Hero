@@ -1,0 +1,47 @@
+1. What is Cloud?  -> Completed 
+2. Cloud Technologies? -> Providers  
+3. Why Cloud? -> Costing, Maintainance
+4. Job Opportunities? -> Completed
+5. Related things
+
+1. Devops 
+
+Tools : Terraform, Ansible , K8s , Docker, Jenkins
+
+2. Linux
+
+
+--------------------------
+
+1. What is cloud?
+
+vast network of remote servers 
+
+Server - 
+
+1. store and process data
+2. run applications
+
+Server vs Cloud
+
+Server : Cloud , ON prem server
+
+On Premises server 
+
+System Administrators - Software
+Network admins - Network side
+Server Architect - Plan and Design
+
+Cloud Providers: 
+
+1. Datacenter owners -> Large network of servers (Online)
+2. AWS - 55047 
+3. GCP - 38000 
+4. Azure -42487 
+
+
+Why AWS? 
+1. High Profit 
+2. High Demand
+3. Low Cost
+
