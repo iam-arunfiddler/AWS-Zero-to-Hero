@@ -1,0 +1,17 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "AllowOnlyOwnerAccess",
+        "Effect": "Allow",
+        "Principal": {
+          "AWS": "arn:aws:iam::710019419469:root"
+        },
+        "Action": "s3:*",
+        "Resource": [
+          "arn:aws:s3:::arunfiddlerdemo",
+          "arn:aws:s3:::arunfiddlerdemo/*"
+        ]
+      }
+    ]
+  }
