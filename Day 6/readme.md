@@ -3,6 +3,7 @@
 Welcome to **Day 6** of the **AWS Zero to Hero - Tamil** series by **Arun Fiddler**!  
 In this session, we explored **Amazon S3 (Simple Storage Service)** — a foundational AWS service used for object storage — and discussed everything you need to know to get hands-on and production-ready with S3.
 
+🎥 Complete Playlist on Youtube : https://www.youtube.com/watch?v=prkYvd94EGM&list=PLpGbJOX1pnPzEK8BsXoLdgSdk0qEq9D-x
 ---
 
 ## 🎯 What You Will Learn
@@ -69,7 +70,33 @@ Steps:
 
 ---
 
-## 🔐 Public Bucket Policy Used
 
-```json
-Navgiate to Sample Bucket Policies > AllPublicAccess.json
+💡 Real-World Tips & Best Practices:
+
+🔐 Avoid public buckets unless absolutely required
+
+✅ Use IAM roles and bucket policies for access control
+
+💾 Enable versioning to protect against accidental deletion
+
+📉 Use lifecycle rules to archive or delete unused objects
+
+🪪 Enable default encryption (SSE-S3 or SSE-KMS)
+
+🧪 Test access with anonymous browser sessions 
+
+🔗 Resources
+📄 Amazon S3 Documentation : https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+
+📝 GitHub Gist - Bucket Policy Used : 
+
+
+
+
+ 🎥 [YouTube - Tech by Arun Fiddler](https://www.youtube.com/@TechbyArunFiddler)
+ 💼 [LinkedIn - Arun Fiddler](https://www.linkedin.com/in/arunfiddler)
+
+
+
+Happy Learning! 🙌
+#AWS #S3 #TamilTutorial #CloudComputing #ArunFiddler
