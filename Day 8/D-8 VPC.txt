@@ -1,0 +1,51 @@
+VPC
+
+What is VPC?
+What are the components?
+Why VPC?
+
+VPC - Virtual Private Cloud
+logically isolated virtual network
+
+
+IP Address
+
+DNS = arunfiddler.com => IP Address 
+
+172.202.040.111 = 4 Octet
+8 bit per octet = 32 bits 
+
+--------.--------.--------.--------
+
+IP Address 
+
+Ip v4 Address = 172.202.040.111
+IP v6 address = 2404:6800:4009:805::200e
+
+Public IP = Online Internet 
+Private IP = Internal 
+
+Classful Ip Address :
+ 
+Class A  : 44.0.0.1 => N - 44 Host Address - 32 bits - 16,777,214
+CLass B : 128.16.0.2 => N - 128.16 - 16 bits - 65,534 Ip 
+Class C : 192.168.1.100 => 192.168.1 - 8 bits - 254
+
+255.255.255.255
+
+
+Classless IP => CIDR => Classless Interdomain Routing
+
+VPC = /16 - /24
+
+10.0<= Network 0.0<= Host "/16" - 65,536
+10.1.0 <= Network | Host = .0  /24  <=  256 
+
+
+
+
+
+
+
+
+
